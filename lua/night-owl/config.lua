@@ -3,7 +3,8 @@ local M = {}
 ---@class Config
 local default_options = {
 	bold = true,
-	italics = true,
+	--italics = true,
+	italics = false,
 	underline = true,
 	undercurl = true,
 	transparent_background = false,
